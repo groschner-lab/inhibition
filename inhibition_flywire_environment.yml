@@ -1,0 +1,13 @@
+name: inhibition_flywire_export
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=26.2
+  - matplotlib=3.10.0
+  - python=3.11
+  - jupyterlab=4.6.3
+  - plotly=7.0.0
+  - pip:
+      - fafbseg==3.2.2
+      - navis==1.12.0

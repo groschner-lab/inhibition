@@ -1,4 +1,4 @@
-# Non-canonical inhibition shapes motion vision
+# Non-canonical inhibition in motion vision
 Scripts used for analyses and simulations in Zuidinga et al.
 
 We used the Anaconda distribution of Python (https://docs.anaconda.com/anaconda/install/index.html). To run the scripts locally, download the file collection and navigate to the path in the terminal (Mac) or in an Anaconda Prompt (Windows), create the respective environments and start JupyterLab. For scripts that need input data, download the data files from Zenodo (url) and save them in the respective `input_data` folder.
